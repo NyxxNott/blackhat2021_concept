@@ -13,5 +13,5 @@ This concept of time locks and time series databases is an evolution of my resea
 ## Innovation
 The current proposal is an innovation invocation of time locks in the time series databases with first of its kind algorithm for sharding and scaling time series databases with time locks in a recursive and recurrent manner. 
 
-## Purpose
-- My research is an attempt to address the issues of clutter and chaos in time series analysis which becomes a major impediment for the 
+## Value Proposition
+- My research is an attempt to address the issues of clutter and chaos in time series analysis which becomes a major impediment for privacy preserving federated machine learning experiments and secure and scalable multi party computations essential for analytic use cases in GovTech, HealthTech, EnergyTech, FinTech and RegTech industrial sectors. At the moment, there are very limited implementations of privacy preserving tools on time series databases. Thus my concept helps to address the security and scalability challenges of time series databases in a multi party computation setting.
