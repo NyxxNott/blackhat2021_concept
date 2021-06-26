@@ -15,3 +15,6 @@ The current proposal is an innovation invocation of time locks in the time serie
 
 ## Value Proposition
 My research is an attempt to address the issues of clutter and chaos in time series analysis which becomes a major impediment for privacy preserving federated machine learning experiments and secure and scalable multi party computations essential for analytic use cases in GovTech, HealthTech, EnergyTech, FinTech and RegTech industrial sectors. At the moment, there are very limited implementations of privacy preserving tools on time series databases. Thus my concept helps to address the security and scalability challenges of time series databases in a multi party computation setting.
+
+## Disclosures
+I have identified a number of vulnerabilities in time series databases used in energy and utility domain, fintech domain and healthtech domain. These vulnerabilities are due to the lack of time locks in the distributed systems and satellites used to generate the metrics of time in the synchronous, and asynchronous computational processes. 
