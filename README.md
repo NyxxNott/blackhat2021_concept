@@ -9,3 +9,6 @@ The presentation will consist of sections on time locks and their different mani
 
 ## Context
 This concept of time locks and time series databases is an evolution of my research on time lock machines and manifestations ever since working on quantum and classical randomness. I had presented a session on the application of time locks in DEFCON 28 to construct verified randomness for distributed ledgers such as Ethereum, Algorand, DFNITY etc. I have worked further on time locks and post quantum cryptography ever since the DEFCON 28. In the NullCon 28, I had presented a session on the emerging ensembles of post quantum cryptography. 
+
+## Innovation
+The current proposal is an innovation invocation of time locks in the time series databases with first of its kind algorithm for sharding time series databases with time locks in a recursive and recurrent manner. 
